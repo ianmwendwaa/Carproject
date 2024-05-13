@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CarWardAgency</string>
+    <string name="save_data">Save Mechanic</string>
+    <string name="select_image">Select Image</string>
+    <string name="title_activity_mechanics_dashboard">MechanicsDashboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>

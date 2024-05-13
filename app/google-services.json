@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384054592646",
+    "project_id": "carwardagency",
+    "storage_bucket": "carwardagency.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384054592646:android:e26daeedd1bbd00f8f3d07",
+        "android_client_info": {
+          "package_name": "com.example.carwardagency"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT1JsgDvcf8MvbAZPBqr-EJaBI-Tr-p3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
